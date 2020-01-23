@@ -1,2 +1,3 @@
-num=2
-num=3
+num1=2
+num2=3
+num3=4
